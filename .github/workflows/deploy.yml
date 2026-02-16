@@ -1,6 +1,6 @@
 name: CD - Déploiement sur GitHub Pages
 
- on:
+on:
   push:
     branches: [ "main" ]
 
